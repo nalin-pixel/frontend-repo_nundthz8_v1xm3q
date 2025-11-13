@@ -1,0 +1,10 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 201 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.47.184:3000/
+3:25:22 AM [vite] Pre-transform error: Failed to resolve import "d3" from "src/components/WaveViz.jsx". Does the file exist?
